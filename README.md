@@ -1,4 +1,4 @@
 # Web-Application-Penetration-Testing
 Web applications Pentesting
 
-All About Web Application Penetration TestinG
+All About Web Application Penetration Testing
